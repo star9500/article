@@ -1,6 +1,6 @@
 不定时的发布一些技术相关的文章
 ## 工具类篇
-[markdown语法](./markdown/markdown_syntax.md)
+[markdown语法](./markdown_syntax/markdown_syntax.md)
 ## 源码分析篇
 [ThreadLocal源码分析](./ThreadLocal/ThreadLocal源码分析.md)
 ## java技术文章篇
