@@ -478,3 +478,6 @@ private boolean cleanSomeSlots(int i, int n)
 - 因为每个线程都只会访问自己ThreadLocalMap 保存的变量，所以不存在线程安全问题
 - ThreadLocal源码相对较少，很适合作为入门源码分析，建议多看几遍，很多其他框架里都大量的使用了ThreadLocal，掌握了ThreadLocal后理解其他的框架应用设计思想就容易多了。
 
+## 公众号
+欢迎关注公众号，不定期的发布java相关的技术文章。
+![公众号](../qrcode_gh.jpg)

@@ -10,3 +10,7 @@
 - [java位运算及移位运算](./bitOperation/java位运算及移位运算.md)
 ## 多线程篇
 - [java线程详解](./thread/thread.md)
+
+## 公众号
+欢迎关注公众号，不定期的发布java相关的技术文章。
+![公众号](./qrcode_gh.jpg)

@@ -375,3 +375,7 @@ markdown使用`\` 为一下字符提供转义。
 ## 目录
 markdown可以自动生成目录，只需要文档开始的地方使用`[TOC]`，但是github不能识别这种语法，可使用以下方法，生成目录内容，并粘贴到文档开始处即可。
 使用方法参考：https://github.com/ekalinin/github-markdown-toc
+
+## 公众号
+欢迎关注公众号，不定期的发布java相关的技术文章。
+![公众号](../qrcode_gh.jpg)

@@ -333,3 +333,7 @@ lockSupportThread4先休眠了2s确保lockSupportThread3先执行并获取到obj
 张无忌：......
 ```
 emmmmm，好像走错片场了，那就江湖再见吧。。。
+
+## 公众号
+欢迎关注公众号，不定期的发布java相关的技术文章。
+![公众号](../qrcode_gh.jpg)
