@@ -480,4 +480,5 @@ private boolean cleanSomeSlots(int i, int n)
 
 ## 公众号
 欢迎关注公众号，不定期的发布java相关的技术文章。
+
 ![公众号](../qrcode_gh.jpg)
